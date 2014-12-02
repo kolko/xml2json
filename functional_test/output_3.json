@@ -1,0 +1,44 @@
+{
+  "tags": [
+    {
+      "tag": "books",
+      "subtags": [
+        {
+          "tag": "book",
+          "attrs": {
+            "isbn": "9780907486862"
+          },
+          "subtags": [
+            {
+              "tag": "author",
+              "text": "Conan Doyle"
+            },
+            {
+              "tag": "title",
+              "text": "Sherlock Holmes: Complete Illustrated Stories"
+            },
+            {
+              "tag": "tags",
+              "subtags": [
+                {
+                  "tag": "tag",
+                  "text": "cool"
+                },
+                {
+                  "tag": "tag",
+                  "text": "classic"
+                }
+              ]
+            },
+            {
+              "tag": "empty_tag",
+              "attrs": {
+                "attr1": "123"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
